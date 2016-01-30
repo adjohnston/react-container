@@ -1,0 +1,26 @@
+{
+  "name": "react-container",
+  "version": "0.0.1",
+  "description": "A grid system using Flexbox and designed for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjohnston/react-container.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "flexbox",
+    "grid",
+    "system"
+  ],
+  "author": "Adam Johnston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adjohnston/react-container/issues"
+  },
+  "homepage": "https://github.com/adjohnston/react-container#readme"
+}
