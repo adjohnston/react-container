@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/adjohnston/react-container/issues"
   },
-  "homepage": "https://github.com/adjohnston/react-container#readme"
+  "homepage": "https://github.com/adjohnston/react-container#readme",
+  "dependencies": {
+    "jspm": "^0.16.25"
+  }
 }
