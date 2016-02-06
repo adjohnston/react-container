@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Container from './components/container';
-import InputExample from './components/input-example';
-import ButtonExample from './components/button-example';
+import Container from './container';
+import InputExample from './input-example';
+import ButtonExample from './button-example';
 
 const StrExample = () => {
   return (
