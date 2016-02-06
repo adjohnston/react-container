@@ -5,6 +5,10 @@ import Container from './container';
 import InputExample from './input-example';
 import ButtonExample from './button-example';
 
+const buttonStyles = {
+  margin: '0 .25rem 0 0'
+}
+
 const StrExample = () => {
   return (
     <Container
@@ -25,7 +29,10 @@ const ComponentExample = () => {
       spans={[
         {components: <InputExample />},
         {components: [
-          <ButtonExample>Post Message</ButtonExample>,
+          <ButtonExample
+            componentStyles={buttonStyles}>
+            Post Message
+          </ButtonExample>,
           <ButtonExample>Clear</ButtonExample>
         ], styles: 'fit'}
       ]} />
