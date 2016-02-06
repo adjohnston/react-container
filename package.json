@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "container.js",
+    "span.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adjohnston/react-container.git"
