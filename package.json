@@ -2,7 +2,7 @@
   "name": "react-container",
   "version": "0.0.1",
   "description": "A grid system using Flexbox and designed for React",
-  "main": "index.js",
+  "main": "container.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
