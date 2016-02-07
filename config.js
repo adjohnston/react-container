@@ -191,6 +191,7 @@ System.config({
     "clean-css": "npm:clean-css@3.4.9",
     "core-js": "npm:core-js@1.2.6",
     "css": "github:systemjs/plugin-css@0.1.20",
+    "normalize.css": "npm:normalize.css@3.0.3",
     "react": "npm:react@0.14.7",
     "react-dom": "npm:react-dom@0.14.7",
     "github:jspm/nodelibs-assert@0.1.0": {
