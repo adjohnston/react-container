@@ -1,0 +1,11 @@
+import normalize from 'normalize.css!';
+
+html {
+  & > * {
+    box-sizing: border-box;
+  }
+}
+
+.splash {
+  height: 100vh;
+}
