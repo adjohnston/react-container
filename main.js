@@ -5,6 +5,8 @@ import Container from './container';
 import InputExample from './input-example';
 import ButtonExample from './button-example';
 
+import styles from './lib/css/style.css!';
+
 const buttonStyles = {
   margin: '0 .25rem 0 0'
 }
