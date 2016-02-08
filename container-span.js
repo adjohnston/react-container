@@ -22,4 +22,4 @@ const ContainerSpan = ({children: content, styles: styles = []} = props) => {
   )
 }
 
-export default Span;
+export default ContainerSpan;
