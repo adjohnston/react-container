@@ -1,5 +1,5 @@
 import React from 'react';
-import Span from './container-span';
+import ContainerSpan from './container-span';
 
 const Container = ({spans, styles: styles = []} = props) => {
   const componentStyles = {
@@ -19,13 +19,13 @@ const Container = ({spans, styles: styles = []} = props) => {
         } = child;
 
         return (
-          <Span
+          <ContainerSpan
             styles={styles}
             key={i}>
 
             {components}
 
-          </Span>
+          </ContainerSpan>
         )
       })}
 
