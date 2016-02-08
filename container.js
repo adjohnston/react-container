@@ -1,5 +1,5 @@
 import React from 'react';
-import Span from './span';
+import Span from './container-span';
 
 const Container = ({spans, styles: styles = []} = props) => {
   const componentStyles = {
