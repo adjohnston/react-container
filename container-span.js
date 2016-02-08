@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Span = ({children: content, styles: styles = []} = props) => {
+const ContainerSpan = ({children: content, styles: styles = []} = props) => {
   let componentStyles = {
     padding: styles.includes('noGutter') ? '0' : '0 .5rem',
 
